@@ -2,7 +2,12 @@
 
 
 # Flood Prediction Using Machine Learning  
-This project leverages machine learning (ML) techniques to enhance flood prediction accuracy, aiming to improve disaster preparedness and response.  
+This project leverages machine learning (ML) techniques to enhance flood prediction accuracy, aiming to improve disaster preparedness and response. 
+
+
+## Dataset used- https://docs.google.com/spreadsheets/d/1-HXxJM0prcoowrnqZptPTO6RX810sosKiyIRssFeSR8/edit?gid=1652835133#gid=1652835133 
+## Youtube- https://youtu.be/iHYiJSOVjxY
+
 
 ### Features:  
 - Utilizes historical meteorological data, river flow measurements, and land use patterns for analysis.  
