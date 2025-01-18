@@ -15,8 +15,7 @@ This project leverages machine learning (ML) techniques to enhance flood predict
 - Achieves significant improvements in prediction accuracy over traditional methods.  
 
 ### Goals:  
-- Identify patterns and relationships within data to predict flooding events.  
-- Provide timely alerts to mitigate risks and enhance community resilience.  
+- Identify patterns and relationships within data to predict flooding events.   
 
 ### Contributors:  
 - **Alvee Ishraque**  
