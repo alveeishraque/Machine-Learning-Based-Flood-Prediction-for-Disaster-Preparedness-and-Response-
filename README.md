@@ -22,7 +22,3 @@ This project leverages machine learning (ML) techniques to enhance flood predict
 - **MD Fuadur Rahman Mollah**  
 - **MD Shahadat Hossain Shamim**  
 
-  
----
-
-Feel free to customize it further based on the repository content and specific implementation details.
